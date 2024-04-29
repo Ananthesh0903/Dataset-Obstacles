@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Dataset img</folder>
+	<filename>image 24.jpeg</filename>
+	<path>C:\Users\ananthesh\OneDrive\Desktop\Dataset img\image 24.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>150mm obstacle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>253</xmin>
+			<ymin>296</ymin>
+			<xmax>525</xmax>
+			<ymax>530</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>testtube</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>615</xmin>
+			<ymin>330</ymin>
+			<xmax>768</xmax>
+			<ymax>427</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>300mm obstacle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>793</xmin>
+			<ymin>165</ymin>
+			<xmax>1510</xmax>
+			<ymax>824</ymax>
+		</bndbox>
+	</object>
+</annotation>
